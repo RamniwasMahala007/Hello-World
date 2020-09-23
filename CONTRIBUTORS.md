@@ -129,6 +129,7 @@
 - [Prateek kocher](https://github.com/prateekk2001)
 - [Rachael Neff](https://github.com/raneff)
 - [Rachit Garg](https://github.com/rstar900)
+- [Ramniwas Mahala](https://github.com/RamniwasMahala007)
 - [Ramy Fetteha](https://github.com/NoirFLamme)
 - [Randil Tennakoon](https://github.com/randiltennakoon)
 - [Raul Gonzalez Cruz](https://github.com/raulgonzalezcz)
